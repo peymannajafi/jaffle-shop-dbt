@@ -6,8 +6,9 @@ env
 target/
 dbt_packages/
 logs/
+dbt_modules/
 profiles.yml
-
+.env
 .DS_Store
 
 .user.yml
